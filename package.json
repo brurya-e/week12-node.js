@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_vs_js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brurya-e/week12-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brurya-e/week12-node.js/issues"
+  },
+  "homepage": "https://github.com/brurya-e/week12-node.js#readme",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
